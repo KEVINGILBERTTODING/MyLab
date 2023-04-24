@@ -1,14 +1,23 @@
-# Simone-App
-Aplikasi Sistem Magang Online Pengadilan Negeri Semarang berbasis android 🦩
-
-![Group 126](https://user-images.githubusercontent.com/79959818/233854187-99b1ebbc-4370-415e-a0c0-c481199497ea.png)
-![Group 139](https://user-images.githubusercontent.com/79959818/233855059-f2240209-d987-4233-96d0-235cfb3f9ab5.png)
-
-![Group 133](https://user-images.githubusercontent.com/79959818/233854827-b96028f3-e4d8-4c05-8876-8442e1a4117f.png)
-
-![Group 144](https://user-images.githubusercontent.com/79959818/233855451-e96b8d70-e725-4c45-b6eb-3d7d3b0e1ca9.png)
-
-![Group 152](https://user-images.githubusercontent.com/79959818/233855882-e99336a6-af48-41a9-900f-8dcb6811e79e.png)
+# PTA-App
+Aplikasi penjualan tangki air PDAM Kendal berbasis android 🐳
 
 
-![Group 158](https://user-images.githubusercontent.com/79959818/233856191-a028c556-98a1-4356-ab10-f853d19c5f7c.png)
+
+![Group 76](https://user-images.githubusercontent.com/79959818/231436547-ae3125f6-32e2-4cd5-9405-05648598e6c6.png)
+![Group 78](https://user-images.githubusercontent.com/79959818/231436564-324516c1-960e-4f62-8803-fbae330e1d0e.png)
+![Group 74](https://user-images.githubusercontent.com/79959818/231436593-3b17c6af-c1e0-4fb9-b7e5-4fee5172b57b.png)
+![Group 75](https://user-images.githubusercontent.com/79959818/231436617-8e8fb727-bad0-48d9-8c9c-e288785a559f.png)
+![Group 86](https://user-images.githubusercontent.com/79959818/231436643-22a832ab-f02b-43f7-a8e1-fce97960527d.png)
+![Group 79](https://user-images.githubusercontent.com/79959818/231436669-4945259e-44be-4f71-a4f6-7992e8c0400b.png)
+
+<h2>Link RestApi</h2>
+https://github.com/KEVINGILBERTTODING/PTA-API
+<h2>Akses Akun 🔑</h2>
+<h3>Admin</h3>
+<p>Username: admin</p>
+<p>Password: admin</p>
+
+<h3>Owner</h3>
+<p>Username: owner</p>
+<p>Password: owner</p>
+
